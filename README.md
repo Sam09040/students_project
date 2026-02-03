@@ -4,10 +4,10 @@
 
 ## Objective
 
-This is a simple project for practicing C, CRUD and code documentation.
+This is a simple project for practicing C, CRUD, and code documentation.
 
-It's school system prototype where you can add, view, update and delete students' information.
+It's a school system prototype where it's possible to add, view, update, and delete students' information.
 
 ### Testing the system
 
-You can check it out by downloading the C file, compiling and running it.
+You can check it out by downloading the C file and either compiling and running it or using the `make` command.
